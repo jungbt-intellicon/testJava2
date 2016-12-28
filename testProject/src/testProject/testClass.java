@@ -6,5 +6,7 @@ public class testClass {
 		System.out.println("branch1");
 		
 		System.out.println("main branch add");
+		
+		System.out.println("source tree test");
 	}
 }
